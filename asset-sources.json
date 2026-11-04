@@ -1,0 +1,10 @@
+{
+  "site": "https://www.jrdakconstruct.be/",
+  "images": {
+    "site uploads (wp-content/uploads/2023)": ["logo", "huis-blauwe-lucht", "dak-bovenaanzicht-pannenlatten", "dak-drone-tuin", "wijk-drone", "overzetdak", "werf-kraan", "plat-dak", "merk-*"],
+    "Instagram-feed op de site (@jr.dakconstruct)": ["voor-na", "wellen-natuurrood", "kwaadmechelen", "energiezuinig", "schilderwerk", "asbest-garage", "wellen-double-black", "wellen-gevel", "loksbergen-goot"]
+  },
+  "not_used": ["front-view-construction-roof-daylight-XXL.jpg", "vertical-low-angle-closeup-shot-black-roof-building-XXL.jpg"],
+  "fonts": "Barlow en Barlow Condensed (SIL Open Font License)",
+  "libraries": "GSAP en ScrollTrigger 3.12.5"
+}
